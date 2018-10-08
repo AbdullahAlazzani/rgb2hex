@@ -1,3 +1,6 @@
+""" / Abdullah Alazzani
+this program is switchin RGB valued to HEX and the opposite
+"""
 def rgb_hex():
   invalid_msg = ("Sorry, you entered a rong value")
   red = int(input("Enter (R) value: "))
